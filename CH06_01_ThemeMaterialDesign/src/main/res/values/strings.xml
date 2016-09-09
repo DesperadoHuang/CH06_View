@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CH06_01_ThemeMaterialDesign</string>
+    <string-array name="OS_List">
+        <item>MAC</item>
+        <item>Windows</item>
+        <item>Linux</item>
+    </string-array>
+</resources>
