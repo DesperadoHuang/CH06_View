@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CH06_01_ThemeMaterialDesign/CH06_01_ThemeMaterialDesign.iml" filepath="$PROJECT_DIR$/CH06_01_ThemeMaterialDesign/CH06_01_ThemeMaterialDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_03_Button/CH06_03_Button.iml" filepath="$PROJECT_DIR$/CH06_03_Button/CH06_03_Button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_03_Check/CH06_03_Check.iml" filepath="$PROJECT_DIR$/CH06_03_Check/CH06_03_Check.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_03_Spinner/CH06_03_Spinner.iml" filepath="$PROJECT_DIR$/CH06_03_Spinner/CH06_03_Spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_03_TextView/CH06_03_TextView.iml" filepath="$PROJECT_DIR$/CH06_03_TextView/CH06_03_TextView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_View.iml" filepath="$PROJECT_DIR$/CH06_View.iml" />

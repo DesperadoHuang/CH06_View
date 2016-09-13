@@ -5,12 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="D:\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CH06_01_ThemeMaterialDesign" />
             <option value="$PROJECT_DIR$/CH06_03_Button" />
+            <option value="$PROJECT_DIR$/CH06_03_Check" />
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
           </set>
@@ -20,6 +21,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CH06_01_ThemeMaterialDesign" />
             <option value="$PROJECT_DIR$/CH06_03_Button" />
+            <option value="$PROJECT_DIR$/CH06_03_Check" />
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
           </set>

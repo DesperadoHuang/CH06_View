@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CH06_03_Check_檢核類組件</string>
+    <string name="checkBox_remeber">記住</string>
+    <string name="hambuger">漢堡</string>
+    <string name="radioButton_man">男性</string>
+    <string name="radioButton_woman">女性</string>
+    <string name="switch_text">切換開關</string>
+    <string name="switch_ON">開</string>
+    <string name="switch_OFF">關</string>
+</resources>
