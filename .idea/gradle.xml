@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/CH06_03_SeekAndRatingBar" />
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
+            <option value="$PROJECT_DIR$/CH06_04_EditText" />
           </set>
         </option>
         <option name="myModules">
@@ -28,6 +29,7 @@
             <option value="$PROJECT_DIR$/CH06_03_SeekAndRatingBar" />
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
+            <option value="$PROJECT_DIR$/CH06_04_EditText" />
           </set>
         </option>
       </GradleProjectSettings>
