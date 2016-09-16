@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CH06_03_SeekAndRatingBar</string>
+    <string name="bt_getSeekBarValue">取得SeekBar值</string>
+    <string name="bt_getRatingBarValue">取得RatingBar值</string>
 </resources>

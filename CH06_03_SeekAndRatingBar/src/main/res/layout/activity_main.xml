@@ -10,8 +10,40 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.main.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <SeekBar
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:id="@+id/seekBar"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_getSeekBarValue"
+        android:id="@+id/bt_seekBarValue"
+        android:layout_below="@+id/seekBar"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10sp"
+        android:onClick="onClick"/>
+
+    <RatingBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+        android:layout_below="@+id/bt_seekBarValue"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_getRatingBarValue"
+        android:id="@+id/bt_ratingBarValue"
+        android:layout_below="@+id/ratingBar"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10sp"
+        android:onClick="onClick"/>
 </RelativeLayout>
