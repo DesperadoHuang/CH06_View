@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/CH06_03_Spinner/CH06_03_Spinner.iml" filepath="$PROJECT_DIR$/CH06_03_Spinner/CH06_03_Spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_03_TextView/CH06_03_TextView.iml" filepath="$PROJECT_DIR$/CH06_03_TextView/CH06_03_TextView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_04_EditText/CH06_04_EditText.iml" filepath="$PROJECT_DIR$/CH06_04_EditText/CH06_04_EditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH06_05_Images&amp;Media/CH06_05_Images&amp;Media.iml" filepath="$PROJECT_DIR$/CH06_05_Images&amp;Media/CH06_05_Images&amp;Media.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_View.iml" filepath="$PROJECT_DIR$/CH06_View.iml" />
     </modules>
   </component>

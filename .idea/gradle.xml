@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
             <option value="$PROJECT_DIR$/CH06_04_EditText" />
+            <option value="$PROJECT_DIR$/CH06_05_Images&amp;Media" />
           </set>
         </option>
         <option name="myModules">
@@ -30,6 +31,7 @@
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
             <option value="$PROJECT_DIR$/CH06_04_EditText" />
+            <option value="$PROJECT_DIR$/CH06_05_Images&amp;Media" />
           </set>
         </option>
       </GradleProjectSettings>

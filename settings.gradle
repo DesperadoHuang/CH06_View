@@ -1,1 +1,1 @@
-include ':CH06_01_ThemeMaterialDesign', ':CH06_03_TextView', ':CH06_03_Button', ':CH06_03_Spinner', ':CH06_03_Check', ':CH06_03_ProgressBar', ':CH06_03_SeekAndRatingBar', ':CH06_04_EditText'
+include ':CH06_01_ThemeMaterialDesign', ':CH06_03_TextView', ':CH06_03_Button', ':CH06_03_Spinner', ':CH06_03_Check', ':CH06_03_ProgressBar', ':CH06_03_SeekAndRatingBar', ':CH06_04_EditText', ':CH06_05_Images&Media'

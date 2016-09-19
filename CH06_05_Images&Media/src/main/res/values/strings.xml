@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CH06_05_Images&amp;Media</string>
+    <string name="rstp">rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov</string>
+</resources>
