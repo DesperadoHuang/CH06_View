@@ -17,23 +17,11 @@
             <option value="$PROJECT_DIR$/CH06_03_Spinner" />
             <option value="$PROJECT_DIR$/CH06_03_TextView" />
             <option value="$PROJECT_DIR$/CH06_04_EditText" />
-            <option value="$PROJECT_DIR$/CH06_05_Images&amp;Media" />
+            <option value="$PROJECT_DIR$/CH06_05_ImagesMedia" />
+            <option value="$PROJECT_DIR$/CH06_06_WebView" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/CH06_01_ThemeMaterialDesign" />
-            <option value="$PROJECT_DIR$/CH06_03_Button" />
-            <option value="$PROJECT_DIR$/CH06_03_Check" />
-            <option value="$PROJECT_DIR$/CH06_03_ProgressBar" />
-            <option value="$PROJECT_DIR$/CH06_03_SeekAndRatingBar" />
-            <option value="$PROJECT_DIR$/CH06_03_Spinner" />
-            <option value="$PROJECT_DIR$/CH06_03_TextView" />
-            <option value="$PROJECT_DIR$/CH06_04_EditText" />
-            <option value="$PROJECT_DIR$/CH06_05_Images&amp;Media" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
