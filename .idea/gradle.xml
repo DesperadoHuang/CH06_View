@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/CH06_04_EditText" />
             <option value="$PROJECT_DIR$/CH06_05_ImagesMedia" />
             <option value="$PROJECT_DIR$/CH06_06_WebView" />
+            <option value="$PROJECT_DIR$/CH06_07_FAB" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
