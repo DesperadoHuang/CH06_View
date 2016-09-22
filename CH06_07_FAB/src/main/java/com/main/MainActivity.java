@@ -4,6 +4,7 @@ import android.graphics.Outline;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewOutlineProvider;
 import android.widget.ImageButton;
@@ -64,7 +65,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 if (length <= maxLength && play) {
-                    textView.setText(article.subSequence(0, length));
+                    String articleString = (String) article.subSequence(0, length);
+                    Log.i("myDebug", articleString);
+                    textView.setText(articleString);
                     play();
                 }
             }
