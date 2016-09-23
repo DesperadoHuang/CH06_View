@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -97,7 +98,29 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showDialog_3() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(context);
+        builder.setTitle(R.string.bt3_text);
+        builder.setIcon(android.R.drawable.ic_dialog_info);
+        builder.setMessage(R.string.input_code);
+        final EditText editText = new EditText(context);
+        builder.setView(editText);
+        builder.setPositiveButton(R.string.OK, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                String message = getResources().getString(R.string.code);
+                message += editText.getText();
+                Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
+                dialog.dismiss();
+            }
+        });
 
+        builder.setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }
+        });
+        builder.create().show();
     }
 
     private void showDialog_4() {
