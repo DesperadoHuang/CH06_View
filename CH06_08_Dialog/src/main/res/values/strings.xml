@@ -13,4 +13,16 @@
     <string name="on_idea">沒意見</string>
     <string name="input_code">輸入代碼</string>
     <string name="code">代碼</string>
+    <string-array name="drink">
+        <item>紅茶</item>
+        <item>咖啡</item>
+        <item>牛奶</item>
+    </string-array>
+    <string-array name="food">
+        <item>漢堡</item>
+        <item>排骨飯</item>
+        <item>義大利麵</item>
+    </string-array>
+    <string name="locky_number">幸運數字</string>
+    <string name="image_url">https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNq1jyaU4T8N74W7Gv2sqKDmDXBwS-AI2l99bUu4KZumzkuEe_</string>
 </resources>
