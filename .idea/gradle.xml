@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/CH06_07_FAB" />
             <option value="$PROJECT_DIR$/CH06_07_FAB2" />
             <option value="$PROJECT_DIR$/CH06_08_Dialog" />
+            <option value="$PROJECT_DIR$/CH06_08_ProgressDialog_STYLE_HORIZONTAL" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
