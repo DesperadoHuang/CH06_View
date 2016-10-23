@@ -16,10 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/CH06_07_FAB2/CH06_07_FAB2.iml" filepath="$PROJECT_DIR$/CH06_07_FAB2/CH06_07_FAB2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_08_Dialog/CH06_08_Dialog.iml" filepath="$PROJECT_DIR$/CH06_08_Dialog/CH06_08_Dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_08_ProgressDialog_STYLE_HORIZONTAL/CH06_08_ProgressDialog_STYLE_HORIZONTAL.iml" filepath="$PROJECT_DIR$/CH06_08_ProgressDialog_STYLE_HORIZONTAL/CH06_08_ProgressDialog_STYLE_HORIZONTAL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CH06_09_Flip/CH06_09_Flip.iml" filepath="$PROJECT_DIR$/CH06_09_Flip/CH06_09_Flip.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CH06_09_Flip/CH06_09_Flip.iml" filepath="$PROJECT_DIR$/CH06_09_Flip/CH06_09_Flip.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH06_View.iml" filepath="$PROJECT_DIR$/CH06_View.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aphidFlipViewLibrary/aphidFlipViewLibrary.iml" filepath="$PROJECT_DIR$/aphidFlipViewLibrary/aphidFlipViewLibrary.iml" />
     </modules>
   </component>
 </project>

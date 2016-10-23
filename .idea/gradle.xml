@@ -23,8 +23,6 @@
             <option value="$PROJECT_DIR$/CH06_07_FAB2" />
             <option value="$PROJECT_DIR$/CH06_08_Dialog" />
             <option value="$PROJECT_DIR$/CH06_08_ProgressDialog_STYLE_HORIZONTAL" />
-            <option value="$PROJECT_DIR$/CH06_09_Flip" />
-            <option value="$PROJECT_DIR$/aphidFlipViewLibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
